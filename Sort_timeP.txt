@@ -1,0 +1,360 @@
+Merge Sort
+ Sredni czas sortowania: 1.80367 ms
+
+Merge Sort
+ Sredni czas sortowania: 19.1189 ms
+
+Merge Sort
+ Sredni czas sortowania: 26.3663 ms
+
+Merge Sort
+ Sredni czas sortowania: 123.46 ms
+
+Merge Sort
+ Sredni czas sortowania: 240.464 ms
+
+Merge Sort
+ Sredni czas sortowania: 1.33885 ms
+
+Merge Sort
+ Sredni czas sortowania: 18.1297 ms
+
+Merge Sort
+ Sredni czas sortowania: 26.937 ms
+
+Merge Sort
+ Sredni czas sortowania: 100.86 ms
+
+Merge Sort
+ Sredni czas sortowania: 205.354 ms
+
+Merge Sort
+ Sredni czas sortowania: 1.25496 ms
+
+Merge Sort
+ Sredni czas sortowania: 7.44574 ms
+
+Merge Sort
+ Sredni czas sortowania: 31.1698 ms
+
+Merge Sort
+ Sredni czas sortowania: 85.6937 ms
+
+Merge Sort
+ Sredni czas sortowania: 212.647 ms
+
+Merge Sort
+ Sredni czas sortowania: 1.09033 ms
+
+Merge Sort
+ Sredni czas sortowania: 9.99706 ms
+
+Merge Sort
+ Sredni czas sortowania: 17.0241 ms
+
+Merge Sort
+ Sredni czas sortowania: 74.3277 ms
+
+Merge Sort
+ Sredni czas sortowania: 154.535 ms
+
+Merge Sort
+ Sredni czas sortowania: 0.854835 ms
+
+Merge Sort
+ Sredni czas sortowania: 8.8508 ms
+
+Merge Sort
+ Sredni czas sortowania: 15.4744 ms
+
+Merge Sort
+ Sredni czas sortowania: 64.4441 ms
+
+Merge Sort
+ Sredni czas sortowania: 142.277 ms
+
+Merge Sort
+ Sredni czas sortowania: 0.860225 ms
+
+Merge Sort
+ Sredni czas sortowania: 8.91314 ms
+
+Merge Sort
+ Sredni czas sortowania: 11.9484 ms
+
+Merge Sort
+ Sredni czas sortowania: 69.1008 ms
+
+Merge Sort
+ Sredni czas sortowania: 144.26 ms
+
+Merge Sort
+ Sredni czas sortowania: 0.854933 ms
+
+Merge Sort
+ Sredni czas sortowania: 5.59254 ms
+
+Merge Sort
+ Sredni czas sortowania: 11.4644 ms
+
+Merge Sort
+ Sredni czas sortowania: 65.2364 ms
+
+Merge Sort
+ Sredni czas sortowania: 136.965 ms
+
+Merge Sort
+ Sredni czas sortowania: 0.905389 ms
+
+Merge Sort
+ Sredni czas sortowania: 5.21346 ms
+
+Merge Sort
+ Sredni czas sortowania: 10.67 ms
+
+Merge Sort
+ Sredni czas sortowania: 65.0853 ms
+
+Merge Sort
+ Sredni czas sortowania: 131.571 ms
+
+Quick Sort
+ Sredni czas sortowania: 1.40812 ms
+
+Quick Sort
+ Sredni czas sortowania: 8.1676 ms
+
+Quick Sort
+ Sredni czas sortowania: 17.0879 ms
+
+Quick Sort
+ Sredni czas sortowania: 96.2095 ms
+
+Quick Sort
+ Sredni czas sortowania: 198.594 ms
+
+Quick Sort
+ Sredni czas sortowania: 1.38617 ms
+
+Quick Sort
+ Sredni czas sortowania: 7.81581 ms
+
+Quick Sort
+ Sredni czas sortowania: 19.2736 ms
+
+Quick Sort
+ Sredni czas sortowania: 99.0074 ms
+
+Quick Sort
+ Sredni czas sortowania: 179.963 ms
+
+Quick Sort
+ Sredni czas sortowania: 1.87292 ms
+
+Quick Sort
+ Sredni czas sortowania: 8.29417 ms
+
+Quick Sort
+ Sredni czas sortowania: 16.8 ms
+
+Quick Sort
+ Sredni czas sortowania: 310.446 ms
+
+Quick Sort
+ Sredni czas sortowania: 1363.47 ms
+
+Quick Sort
+ Sredni czas sortowania: 1.03272 ms
+
+Quick Sort
+ Sredni czas sortowania: 6.06231 ms
+
+Quick Sort
+ Sredni czas sortowania: 12.6814 ms
+
+Quick Sort
+ Sredni czas sortowania: 71.3877 ms
+
+Quick Sort
+ Sredni czas sortowania: 161.448 ms
+
+Quick Sort
+ Sredni czas sortowania: 1.04224 ms
+
+Quick Sort
+ Sredni czas sortowania: 4.96796 ms
+
+Quick Sort
+ Sredni czas sortowania: 10.8628 ms
+
+Quick Sort
+ Sredni czas sortowania: 60.1259 ms
+
+Quick Sort
+ Sredni czas sortowania: 126.477 ms
+
+Quick Sort
+ Sredni czas sortowania: 0.671474 ms
+
+Quick Sort
+ Sredni czas sortowania: 3.85437 ms
+
+Quick Sort
+ Sredni czas sortowania: 8.16929 ms
+
+Quick Sort
+ Sredni czas sortowania: 48.5952 ms
+
+Quick Sort
+ Sredni czas sortowania: 131.712 ms
+
+Quick Sort
+ Sredni czas sortowania: 0.639722 ms
+
+Quick Sort
+ Sredni czas sortowania: 3.71122 ms
+
+Quick Sort
+ Sredni czas sortowania: 7.64561 ms
+
+Quick Sort
+ Sredni czas sortowania: 45.6926 ms
+
+Quick Sort
+ Sredni czas sortowania: 97.0774 ms
+
+Quick Sort
+ Sredni czas sortowania: 0.433625 ms
+
+Quick Sort
+ Sredni czas sortowania: 2.31832 ms
+
+Quick Sort
+ Sredni czas sortowania: 5.18083 ms
+
+Quick Sort
+ Sredni czas sortowania: 29.4567 ms
+
+Quick Sort
+ Sredni czas sortowania: 64.3281 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 1.18032 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 7.14972 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 14.6908 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 87.9766 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 187.788 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 1.15917 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 7.10612 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 16.5909 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 84.878 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 174.031 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 1.95557 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 9.70964 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 20.8827 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 101.153 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 288.207 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 0.880022 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 5.33635 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 11.4124 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 65.8535 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 142.03 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 0.849031 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 5.5767 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 12.1761 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 72.015 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 153.387 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 0.597774 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 4.02801 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 8.38917 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 53.0792 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 115.452 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 0.516761 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 3.21179 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 6.81548 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 41.825 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 91.4801 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 0.320047 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 1.78057 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 3.74819 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 21.5561 ms
+
+ IntroSpective Sort
+ Sredni czas sortowania: 47.6599 ms
+
