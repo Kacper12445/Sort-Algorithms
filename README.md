@@ -11,3 +11,6 @@ Analiza została przeprowadzona dla sortowań takich jak:
 - Sortowanie przez scalanie.
 - Sortowanie szybkie.
 - Sortowanie introspektywne.
+
+Wyniki, dla każdego sortowania zostały zapisane w pliku tekstowym "Sort_timeP.txt".
+Plik "driver.cpp" przedstawia przykładowe działanie programu.
